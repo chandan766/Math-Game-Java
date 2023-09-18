@@ -140,7 +140,7 @@ public class exp {
             @Override
             public void mouseClicked(MouseEvent e){
                 JOptionPane jp = new JOptionPane();
-                jp.showMessageDialog(f1,"Hello I am chandan\nhello i am Ishan\nfjdishfkjdshfidkjf dkjfhdj\ndshkjfhdskjdsfds\ndjhfjsdfjdsgfdf","About",JOptionPane.PLAIN_MESSAGE);
+                jp.showMessageDialog(f1,"This software is developed by chandan maurya.\n For any query/feedback mail on chandanmaurya766@gmail.com","About",JOptionPane.PLAIN_MESSAGE);
             }
         });
 
